@@ -284,7 +284,7 @@
           <span class="fw-bold">Linguagens e tecnologias utilizadas:</span><br>
           HTML | CSS | Javascript | PHP | Bootstrap | Owl Carousel | GSAP
         </p>
-        <button class="btn-about btn btn-primary">Repositório Github</button>
+        <a class="btn-about btn btn-primary" href="https://github.com/htchristie/PaperPlus">Repositório Github</a>
       </div>
     </div>
   </section>
