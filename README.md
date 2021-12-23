@@ -5,8 +5,9 @@
 <br>
 <span><b>Linguagens e tecnologias utilizadas:</b></span><br>
 HTML | CSS | Javascript | PHP | Bootstrap | Owl Carousel | GSAP
+
 <br>
 <hr>
 
-###### [ENG] PaperPlus is a Web Development project of an E-Commerce for an stationery store, made by Information Systems students as a requirement for graduation.
+###### [ENG] PaperPlus is a Web Development project of an E-Commerce for a stationery store, made by Information Systems students as a requirement for graduation.
 
